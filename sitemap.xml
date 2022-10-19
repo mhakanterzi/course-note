@@ -56,28 +56,4 @@
          <xhtml:link rel="alternate" hreflang="tr" href="https://mhakanterzi.github.io/course-note/tr/week-2/week-2/"/>
          
     </url>
-    <url>
-         <loc>https://mhakanterzi.github.io/course-note/week-2/sources/llvm-clang-hello-world-apps/</loc>
-         <lastmod>2022-10-19</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://mhakanterzi.github.io/course-note/en/week-2/sources/llvm-clang-hello-world-apps/"/>
-         <xhtml:link rel="alternate" hreflang="tr" href="https://mhakanterzi.github.io/course-note/tr/week-2/sources/llvm-clang-hello-world-apps/"/>
-         
-    </url>
-    <url>
-         <loc>https://mhakanterzi.github.io/course-note/week-2/sources/mingw-gcc-hello-world-apps/</loc>
-         <lastmod>2022-10-19</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://mhakanterzi.github.io/course-note/en/week-2/sources/mingw-gcc-hello-world-apps/"/>
-         <xhtml:link rel="alternate" hreflang="tr" href="https://mhakanterzi.github.io/course-note/tr/week-2/sources/mingw-gcc-hello-world-apps/"/>
-         
-    </url>
-    <url>
-         <loc>https://mhakanterzi.github.io/course-note/week-2/sources/npp-gcc-hello-world-apps/</loc>
-         <lastmod>2022-10-19</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://mhakanterzi.github.io/course-note/en/week-2/sources/npp-gcc-hello-world-apps/"/>
-         <xhtml:link rel="alternate" hreflang="tr" href="https://mhakanterzi.github.io/course-note/tr/week-2/sources/npp-gcc-hello-world-apps/"/>
-         
-    </url>
 </urlset>
